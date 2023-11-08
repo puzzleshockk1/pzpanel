@@ -5,25 +5,25 @@
 ### Tested systems:
 - Windows
 ### Features:
-#Ddos (soon)
+Ddos (soon)
 
-#SMS Sender
+SMS Sender
 
-#Google Account Phisher
+Google Account Phisher
 
 #Ip pinger
 
-#Discord channel nuker
+Discord channel nuker
 
-#Social media Username checker    
+Social media Username checker    
 
-#Subdomain scanner
+Subdomain scanner
 
-#Email Bomber
+Email Bomber
 
-#Port scanner
+Port scanner
 
-#Ip lookup
+Ip lookup
  
 ### Photo
 
