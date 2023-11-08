@@ -24,18 +24,8 @@ Email Bomber
 Port scanner
 
 Ip lookup
- 
-### Photo
 
-![image](https://i.ibb.co/4gC7hWh/image-2022-05-12-195826236.png)
+### DMCA
 
-### Replit link 
+https://www.dmca.com/r/850wy0g
 
-https://replit.com/@puzzleshock1/Replux-beta?v=1
-
-
-![image](https://i.ibb.co/4gC7hWh/image-2022-05-12-195826236.png)
-
-### Replit link 
-
-https://replit.com/@puzzleshock1/Replux-beta?v=1
